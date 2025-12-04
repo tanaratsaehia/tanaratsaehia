@@ -8,6 +8,6 @@
 ---
 **Active contributor, but most repositories are private.**<br>
 They contain **proprietary client information and trade secrets**.<br>
-If you'd like to discuss my professional work or potential contracts, please reach out via email.
+If you'd like to discuss my professional work or potential contracts, please reach out via **tanarat.sh@gmail.com**.
 
 ---
