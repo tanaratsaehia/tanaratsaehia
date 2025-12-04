@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I'm Tanarat Sae-hia (Oil).<br>I’m currently a Artificial Intelligence student in Khon Kaen University.<br>I really love to build some hardware for apply an AI on it.<br>
+👋 Hi, I'm Tanarat Sae-hia (Oil).<br>I’m a Artificial Intelligence student in Khon Kaen University.<br>I really love to build some hardware for apply an AI on it.<br>
 
 
 ## 💻 Tech Stack:
