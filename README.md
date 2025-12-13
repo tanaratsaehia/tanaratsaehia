@@ -1,4 +1,4 @@
-👋 Hi, I'm **Tanarat Sae-hia (Oil).**<br>I’m a Artificial Intelligence student in Khon Kaen University.<br>I really love to build some hardware for apply an AI on it.<br>
+👋 Hi, I'm **Tanarat Sae-hia (Oil).**<br>I’m an Artificial Intelligence student at Khon Kaen University.<br>I really enjoy building hardware and applying AI to it.<br>
 
 <!-- 
 ## Tech Stack:
